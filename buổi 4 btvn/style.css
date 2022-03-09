@@ -1,0 +1,32 @@
+
+ .article-title
+ {    
+     color:red;
+     text-transform: uppercase;
+     font-family: cursive;
+     text-align: center;
+ }
+ .title{
+     color:green;
+ }
+ p{
+     color:rgb(243, 6, 172)
+ }
+ .body{
+     margin:50px;
+     max-width:750px;
+     margin-left: auto;
+     margin-right: auto;
+
+ }
+ a{
+     background-color:yellow;
+     padding:1px;
+     text-decoration: none;
+     border: 1px solid black ;
+     border-radius: 10px;
+ }
+ img {
+     display: block; margin-left: auto; margin-right: auto;
+    }
+ a:hover {color:red;} 

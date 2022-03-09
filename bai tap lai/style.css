@@ -1,0 +1,51 @@
+body{
+    margin:0px;
+}
+header{
+    background-color:rebeccapurple;
+    padding:10px;
+    color:white;
+}
+.container{
+    max-width:800px;
+    margin-left:auto;
+    margin-right: auto;
+    padding:10px;  
+}
+em{
+    background-color:#eddbff;
+    color::rebeccapurple;
+}
+.card{
+    border:1px solid #ddd;
+    border-radius:10px;
+    padding:10px;
+    margin:15px;
+
+}
+
+
+img{    
+    width:750px;   
+    border-radius:7px;
+    border:1px solid:none;
+
+
+}
+.button{
+    background-color:rebeccapurple;
+    color:white;
+    padding:5px;
+    border:1px  solid:none;
+    border-radius:5px;
+    text-decoration: none;
+}
+h3{
+    color:rebeccapurple;
+}
+footer{
+    border-top:5px solid rebeccapurple;
+    padding:10px;
+
+}
+

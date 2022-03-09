@@ -1,0 +1,44 @@
+body{
+    margin:0px;
+   
+    }
+.C4e{
+    background-color: blueviolet;
+    color:White;
+    width:100%;
+    padding:10px;        
+}
+span{
+    background:#eddbff;
+    padding:5px
+}
+.bang{
+    padding: 20px;
+    border: 1px solid #242323;
+    border-radius: 10px;      
+}     
+.h4{
+    color: rebeccapurple;  
+}
+.button{
+    text-decoration: none;
+    color:white;
+    background-color:rebeccapurple;
+    padding:10px   
+}
+.image {
+    border: 1px solid color:none ;
+    border-radius: 10px;
+    width:760px;
+    height:auto;
+   
+}
+hr{
+    color:rgb(236, 29, 236);
+  
+}
+.cautruc{
+    max-width:800px;
+    margin-left: auto;
+    margin-right: auto;
+}
